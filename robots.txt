@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-za6bhe.pulaucuan.sbs/sitemap.xml
